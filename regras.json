@@ -1,0 +1,32 @@
+{
+  "regras": [
+    {
+      "titulo": "🎯 Qual o Objetivo?",
+      "descricao": "O objetivo é descobrir quem entre vocês é o Impostor! Cidadãos vencem ao identificar o impostor. O Impostor vence se não for descoberto ou se adivinhar a palavra secreta."
+    },
+    {
+      "titulo": "⚙️ Configuração",
+      "descricao": "Primeiro, defina quantos jogadores e impostores participarão. Lembre-se que a opção de <strong>2 impostores</strong> só é liberada para grupos com 7 ou mais jogadores."
+    },
+    {
+      "titulo": "📚 Escolha os Temas",
+      "descricao": "Em seguida, selecione as categorias de palavras para a partida. Vocês podem escolher todas, apenas algumas ou até mesmo uma única categoria para um desafio temático!"
+    },
+    {
+      "titulo": "😇 Papel: Cidadão",
+      "descricao": "Você receberá uma <strong>palavra secreta</strong> e sua <strong>categoria</strong>. A cada rodada, dê uma dica que ajude os outros cidadãos a te identificarem, mas que seja sutil o suficiente para não entregar a palavra ao Impostor."
+    },
+    {
+      "titulo": "👻 Papel: Impostor",
+      "descricao": "Você receberá apenas a <strong>categoria</strong> da palavra. Use a sua criatividade para dar dicas vagas que se encaixem no tema, ouça os outros e tente adivinhar a palavra secreta para vencer!"
+    },
+    {
+      "titulo": "🗳️ A Votação",
+      "descricao": "Após as dicas, todos votam em quem acham que é o Impostor. Se a maioria acertar, os Cidadãos vencem a rodada. Mas cuidado, o Impostor pego tem uma última chance de adivinhar a palavra e roubar a vitória!"
+    },
+    {
+      "titulo": "🏆 Pontuação",
+      "descricao": "Cidadãos ganham <strong>1 ponto</strong> por vitória. Impostores ganham <strong>2 pontos</strong>. Fique de olho no placar e no ranking ao final da partida para ver quem é o mestre do blefe!"
+    }
+  ]
+}

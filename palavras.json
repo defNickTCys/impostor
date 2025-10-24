@@ -1,0 +1,1255 @@
+{
+    "Redes Sociais": [
+        {
+            "palavra": "Facebook",
+            "tipo": "img",
+            "valor": "assets/svg/brands/facebook.json"
+        },
+        {
+            "palavra": "Instagram",
+            "tipo": "img",
+            "valor": "assets/svg/brands/instagram.json"
+        },
+        {
+            "palavra": "Twitter / X",
+            "tipo": "img",
+            "valor": "assets/svg/brands/x-twitter.json"
+        },
+        {
+            "palavra": "LinkedIn",
+            "tipo": "img",
+            "valor": "assets/svg/brands/linkedin.json"
+        },
+        {
+            "palavra": "Pinterest",
+            "tipo": "img",
+            "valor": "assets/svg/brands/pinterest.json"
+        },
+        {
+            "palavra": "Reddit",
+            "tipo": "img",
+            "valor": "assets/svg/brands/reddit.json"
+        },
+        {
+            "palavra": "Snapchat",
+            "tipo": "img",
+            "valor": "assets/svg/brands/snapchat.json"
+        },
+        {
+            "palavra": "TikTok",
+            "tipo": "img",
+            "valor": "assets/svg/brands/tiktok.json"
+        },
+        {
+            "palavra": "YouTube",
+            "tipo": "img",
+            "valor": "assets/svg/brands/youtube.json"
+        },
+        {
+            "palavra": "WhatsApp",
+            "tipo": "img",
+            "valor": "assets/svg/brands/whatsapp.json"
+        },
+        {
+            "palavra": "Discord",
+            "tipo": "img",
+            "valor": "assets/svg/brands/discord.json"
+        },
+        {
+            "palavra": "Telegram",
+            "tipo": "img",
+            "valor": "assets/svg/brands/telegram.json"
+        }
+    ],
+    "Empresas de Tecnologia": [
+        {
+            "palavra": "Amazon",
+            "tipo": "img",
+            "valor": "assets/svg/brands/amazon.json"
+        },
+        {
+            "palavra": "Apple",
+            "tipo": "img",
+            "valor": "assets/svg/brands/apple.json"
+        },
+        {
+            "palavra": "Google",
+            "tipo": "img",
+            "valor": "assets/svg/brands/google.json"
+        },
+        {
+            "palavra": "Microsoft",
+            "tipo": "img",
+            "valor": "assets/svg/brands/microsoft.json"
+        },
+        {
+            "palavra": "Meta",
+            "tipo": "img",
+            "valor": "assets/svg/brands/meta.json"
+        },
+        {
+            "palavra": "Spotify",
+            "tipo": "img",
+            "valor": "assets/svg/brands/spotify.json"
+        },
+        {
+            "palavra": "Uber",
+            "tipo": "img",
+            "valor": "assets/svg/brands/uber.json"
+        },
+        {
+            "palavra": "Nvidia",
+            "tipo": "img",
+            "valor": "assets/svg/brands/nvidia.json"
+        }
+    ],
+    "Navegador de Internet": [
+        {
+            "palavra": "Google Chrome",
+            "tipo": "img",
+            "valor": "assets/svg/brands/chrome.json"
+        },
+        {
+            "palavra": "Mozilla Firefox",
+            "tipo": "img",
+            "valor": "assets/svg/brands/firefox.json"
+        },
+        {
+            "palavra": "Apple Safari",
+            "tipo": "img",
+            "valor": "assets/svg/brands/safari.json"
+        },
+        {
+            "palavra": "Microsoft Edge",
+            "tipo": "img",
+            "valor": "assets/svg/brands/edge.json"
+        },
+        {
+            "palavra": "Opera",
+            "tipo": "img",
+            "valor": "assets/svg/brands/opera.json"
+        },
+        {
+            "palavra": "Brave",
+            "tipo": "img",
+            "valor": "assets/svg/brands/brave.json"
+        },
+        {
+            "palavra": "Internet Explorer",
+            "tipo": "img",
+            "valor": "assets/svg/brands/internet-explorer.json"
+        }
+    ],
+    "Animais": [
+        {
+            "palavra": "Gato",
+            "tipo": "img",
+            "valor": "assets/svg/solid/cat.json"
+        },
+        {
+            "palavra": "Cachorro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dog.json"
+        },
+        {
+            "palavra": "Cavalo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/horse.json"
+        },
+        {
+            "palavra": "Peixe",
+            "tipo": "img",
+            "valor": "assets/svg/solid/fish.json"
+        },
+        {
+            "palavra": "Corvo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/crow.json"
+        },
+        {
+            "palavra": "Pomba",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dove.json"
+        },
+        {
+            "palavra": "Aranha",
+            "tipo": "img",
+            "valor": "assets/svg/solid/spider.json"
+        },
+        {
+            "palavra": "Sapo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/frog.json"
+        },
+        {
+            "palavra": "Vaca",
+            "tipo": "img",
+            "valor": "assets/svg/solid/cow.json"
+        },
+        {
+            "palavra": "Hipopótamo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hippo.json"
+        },
+        {
+            "palavra": "Leão-marinho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/otter.json"
+        }
+    ],
+    "Comidas e Bebidas": [
+        {
+            "palavra": "Maçã",
+            "tipo": "img",
+            "valor": "assets/svg/solid/apple-whole.json"
+        },
+        {
+            "palavra": "Hambúrguer",
+            "tipo": "img",
+            "valor": "assets/svg/solid/burger.json"
+        },
+        {
+            "palavra": "Bolo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/cake-candles.json"
+        },
+        {
+            "palavra": "Cenoura",
+            "tipo": "img",
+            "valor": "assets/svg/solid/carrot.json"
+        },
+        {
+            "palavra": "Queijo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/cheese.json"
+        },
+        {
+            "palavra": "Café",
+            "tipo": "img",
+            "valor": "assets/svg/solid/coffee.json"
+        },
+        {
+            "palavra": "Ovo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/egg.json"
+        },
+        {
+            "palavra": "Sorvete",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ice-cream.json"
+        },
+        {
+            "palavra": "Limão",
+            "tipo": "img",
+            "valor": "assets/svg/regular/lemon.json"
+        },
+        {
+            "palavra": "Pimenta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/pepper-hot.json"
+        },
+        {
+            "palavra": "Pizza",
+            "tipo": "img",
+            "valor": "assets/svg/solid/pizza-slice.json"
+        },
+        {
+            "palavra": "Vinho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wine-glass.json"
+        }
+    ],
+    "Esportes": [
+        {
+            "palavra": "Beisebol",
+            "tipo": "img",
+            "valor": "assets/svg/solid/baseball.json"
+        },
+        {
+            "palavra": "Basquete",
+            "tipo": "img",
+            "valor": "assets/svg/solid/basketball.json"
+        },
+        {
+            "palavra": "Boliche",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bowling-ball.json"
+        },
+        {
+            "palavra": "Futebol Americano",
+            "tipo": "img",
+            "valor": "assets/svg/solid/football.json"
+        },
+        {
+            "palavra": "Futebol",
+            "tipo": "img",
+            "valor": "assets/svg/solid/futbol.json"
+        },
+        {
+            "palavra": "Golfe",
+            "tipo": "img",
+            "valor": "assets/svg/solid/golf-ball.json"
+        },
+        {
+            "palavra": "Hóquei",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hockey-puck.json"
+        },
+        {
+            "palavra": "Natação",
+            "tipo": "img",
+            "valor": "assets/svg/solid/person-swimming.json"
+        },
+        {
+            "palavra": "Tênis de Mesa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/table-tennis.json"
+        },
+        {
+            "palavra": "Vôlei",
+            "tipo": "img",
+            "valor": "assets/svg/solid/volleyball.json"
+        },
+        {
+            "palavra": "Ciclismo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bicycle.json"
+        },
+        {
+            "palavra": "Corrida",
+            "tipo": "img",
+            "valor": "assets/svg/solid/person-running.json"
+        }
+    ],
+    "Partes do Corpo": [
+        {
+            "palavra": "Cérebro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/brain.json"
+        },
+        {
+            "palavra": "Orelha",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ear-listen.json"
+        },
+        {
+            "palavra": "Olho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/eye.json"
+        },
+        {
+            "palavra": "Mão",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hand.json"
+        },
+        {
+            "palavra": "Coração",
+            "tipo": "img",
+            "valor": "assets/svg/solid/heart.json"
+        },
+        {
+            "palavra": "Pulmão",
+            "tipo": "img",
+            "valor": "assets/svg/solid/lungs.json"
+        },
+        {
+            "palavra": "Dente",
+            "tipo": "img",
+            "valor": "assets/svg/solid/tooth.json"
+        },
+        {
+            "palavra": "Osso",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bone.json"
+        },
+        {
+            "palavra": "DNA",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dna.json"
+        },
+        {
+            "palavra": "Crânio",
+            "tipo": "img",
+            "valor": "assets/svg/solid/skull.json"
+        }
+    ],
+    "Itens de Cozinha": [
+        {
+            "palavra": "Liquidificador",
+            "tipo": "img",
+            "valor": "assets/svg/solid/blender.json"
+        },
+        {
+            "palavra": "Garrafa de Vinho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wine-bottle.json"
+        },
+        {
+            "palavra": "Caneca",
+            "tipo": "img",
+            "valor": "assets/svg/solid/mug-hot.json"
+        },
+        {
+            "palavra": "Talheres",
+            "tipo": "img",
+            "valor": "assets/svg/solid/utensils.json"
+        },
+        {
+            "palavra": "Taça de Vinho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wine-glass.json"
+        },
+        {
+            "palavra": "Colher",
+            "tipo": "img",
+            "valor": "assets/svg/solid/spoon.json"
+        },
+        {
+            "palavra": "Tigela",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bowl-food.json"
+        }
+    ],
+    "Itens de Banheiro": [
+        {
+            "palavra": "Papel Higiênico",
+            "tipo": "img",
+            "valor": "assets/svg/solid/toilet-paper.json"
+        },
+        {
+            "palavra": "Pia",
+            "tipo": "img",
+            "valor": "assets/svg/solid/sink.json"
+        },
+        {
+            "palavra": "Sabonete",
+            "tipo": "img",
+            "valor": "assets/svg/solid/soap.json"
+        },
+        {
+            "palavra": "Toalha",
+            "tipo": "img",
+            "valor": "assets/svg/solid/rug.json"
+        },
+        {
+            "palavra": "Escova de Dentes",
+            "tipo": "img",
+            "valor": "assets/svg/solid/brush.json"
+        },
+        {
+            "palavra": "Sabonete Líquido",
+            "tipo": "img",
+            "valor": "assets/svg/solid/pump-soap.json"
+        }
+    ],
+    "Itens de Escritório": [
+        {
+            "palavra": "Computador de Mesa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/desktop.json"
+        },
+        {
+            "palavra": "Laptop",
+            "tipo": "img",
+            "valor": "assets/svg/solid/laptop.json"
+        },
+        {
+            "palavra": "Teclado",
+            "tipo": "img",
+            "valor": "assets/svg/solid/keyboard.json"
+        },
+        {
+            "palavra": "Impressora",
+            "tipo": "img",
+            "valor": "assets/svg/solid/print.json"
+        },
+        {
+            "palavra": "Grampeador",
+            "tipo": "img",
+            "valor": "assets/svg/solid/stapler.json"
+        },
+        {
+            "palavra": "Clipe de Papel",
+            "tipo": "img",
+            "valor": "assets/svg/solid/paperclip.json"
+        },
+        {
+            "palavra": "Pasta de Arquivos",
+            "tipo": "img",
+            "valor": "assets/svg/solid/folder.json"
+        },
+        {
+            "palavra": "Marca-texto",
+            "tipo": "img",
+            "valor": "assets/svg/solid/highlighter.json"
+        },
+        {
+            "palavra": "Livro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/book.json"
+        }
+    ],
+    "Vestuário e Acessórios": [
+        {
+            "palavra": "Camiseta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/shirt.json"
+        },
+        {
+            "palavra": "Meias",
+            "tipo": "img",
+            "valor": "assets/svg/solid/socks.json"
+        },
+        {
+            "palavra": "Chapéu de Cowboy",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hat-cowboy.json"
+        },
+        {
+            "palavra": "Luva",
+            "tipo": "img",
+            "valor": "assets/svg/solid/mitten.json"
+        },
+        {
+            "palavra": "Coroa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/crown.json"
+        },
+        {
+            "palavra": "Óculos",
+            "tipo": "img",
+            "valor": "assets/svg/solid/glasses.json"
+        },
+        {
+            "palavra": "Joia",
+            "tipo": "img",
+            "valor": "assets/svg/solid/gem.json"
+        },
+        {
+            "palavra": "Anel",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ring.json"
+        },
+        {
+            "palavra": "Gravata",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-tie.json"
+        }
+    ],
+    "Obj. de Musica e Sons": [
+        {
+            "palavra": "Tambor",
+            "tipo": "img",
+            "valor": "assets/svg/solid/drum.json"
+        },
+        {
+            "palavra": "Guitarra",
+            "tipo": "img",
+            "valor": "assets/svg/solid/guitar.json"
+        },
+        {
+            "palavra": "Microfone",
+            "tipo": "img",
+            "valor": "assets/svg/solid/microphone.json"
+        },
+        {
+            "palavra": "Nota Musical",
+            "tipo": "img",
+            "valor": "assets/svg/solid/music.json"
+        },
+        {
+            "palavra": "Disco de Vinil",
+            "tipo": "img",
+            "valor": "assets/svg/solid/record-vinyl.json"
+        },
+        {
+            "palavra": "Sino",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bell.json"
+        },
+        {
+            "palavra": "Fone de Ouvido",
+            "tipo": "img",
+            "valor": "assets/svg/solid/headphones.json"
+        },
+        {
+            "palavra": "Megafone",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bullhorn.json"
+        },
+        {
+            "palavra": "CD",
+            "tipo": "img",
+            "valor": "assets/svg/solid/compact-disc.json"
+        },
+        {
+            "palavra": "Rádio",
+            "tipo": "img",
+            "valor": "assets/svg/solid/radio.json"
+        },
+        {
+            "palavra": "Podcast",
+            "tipo": "img",
+            "valor": "assets/svg/solid/podcast.json"
+        },
+        {
+            "palavra": "Sem Som / Mudo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/volume-off.json"
+        },
+        {
+            "palavra": "Headset",
+            "tipo": "img",
+            "valor": "assets/svg/solid/headset.json"
+        }
+    ],
+    "Clima e Natureza": [
+        {
+            "palavra": "Raio",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bolt.json"
+        },
+        {
+            "palavra": "Nuvem",
+            "tipo": "img",
+            "valor": "assets/svg/solid/cloud.json"
+        },
+        {
+            "palavra": "Fogo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/fire.json"
+        },
+        {
+            "palavra": "Folha",
+            "tipo": "img",
+            "valor": "assets/svg/solid/leaf.json"
+        },
+        {
+            "palavra": "Lua",
+            "tipo": "img",
+            "valor": "assets/svg/solid/moon.json"
+        },
+        {
+            "palavra": "Montanha",
+            "tipo": "img",
+            "valor": "assets/svg/solid/mountain.json"
+        },
+        {
+            "palavra": "Arco-íris",
+            "tipo": "img",
+            "valor": "assets/svg/solid/rainbow.json"
+        },
+        {
+            "palavra": "Floco de Neve",
+            "tipo": "img",
+            "valor": "assets/svg/solid/snowflake.json"
+        },
+        {
+            "palavra": "Sol",
+            "tipo": "img",
+            "valor": "assets/svg/solid/sun.json"
+        },
+        {
+            "palavra": "Tornado",
+            "tipo": "img",
+            "valor": "assets/svg/solid/tornado.json"
+        },
+        {
+            "palavra": "Árvore",
+            "tipo": "img",
+            "valor": "assets/svg/solid/tree.json"
+        },
+        {
+            "palavra": "Vento",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wind.json"
+        }
+    ],
+    "Profissões": [
+        {
+            "palavra": "Astronauta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-astronaut.json"
+        },
+        {
+            "palavra": "Médico",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-doctor.json"
+        },
+        {
+            "palavra": "Estudante",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-graduate.json"
+        },
+        {
+            "palavra": "Ninja",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-ninja.json"
+        },
+        {
+            "palavra": "Enfermeiro(a)",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-nurse.json"
+        },
+        {
+            "palavra": "Espião",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-secret.json"
+        },
+        {
+            "palavra": "Executivo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/user-tie.json"
+        },
+        {
+            "palavra": "Professor(a)",
+            "tipo": "img",
+            "valor": "assets/svg/solid/chalkboard-user.json"
+        },
+        {
+            "palavra": "Cientista",
+            "tipo": "img",
+            "valor": "assets/svg/solid/flask.json"
+        },
+        {
+            "palavra": "Engenheiro(a)",
+            "tipo": "img",
+            "valor": "assets/svg/solid/helmet-safety.json"
+        },
+        {
+            "palavra": "Juiz(a)",
+            "tipo": "img",
+            "valor": "assets/svg/solid/gavel.json"
+        },
+        {
+            "palavra": "Cozinheiro(a)",
+            "tipo": "img",
+            "valor": "assets/svg/solid/utensils.json"
+        }
+    ],
+    "Meios de Transporte": [
+        {
+            "palavra": "Bicicleta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bicycle.json"
+        },
+        {
+            "palavra": "Ônibus",
+            "tipo": "img",
+            "valor": "assets/svg/solid/bus.json"
+        },
+        {
+            "palavra": "Carro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/car.json"
+        },
+        {
+            "palavra": "Helicóptero",
+            "tipo": "img",
+            "valor": "assets/svg/solid/helicopter.json"
+        },
+        {
+            "palavra": "Motocicleta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/motorcycle.json"
+        },
+        {
+            "palavra": "Avião",
+            "tipo": "img",
+            "valor": "assets/svg/solid/plane.json"
+        },
+        {
+            "palavra": "Foguete",
+            "tipo": "img",
+            "valor": "assets/svg/solid/rocket.json"
+        },
+        {
+            "palavra": "Navio",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ship.json"
+        },
+        {
+            "palavra": "Metrô",
+            "tipo": "img",
+            "valor": "assets/svg/solid/train-subway.json"
+        },
+        {
+            "palavra": "Táxi",
+            "tipo": "img",
+            "valor": "assets/svg/solid/taxi.json"
+        },
+        {
+            "palavra": "Trator",
+            "tipo": "img",
+            "valor": "assets/svg/solid/tractor.json"
+        },
+        {
+            "palavra": "Caminhão",
+            "tipo": "img",
+            "valor": "assets/svg/solid/truck.json"
+        }
+    ],
+    "Ferr. de Uso Geral": [
+        {
+            "palavra": "Martelo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hammer.json"
+        },
+        {
+            "palavra": "Chave Inglesa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wrench.json"
+        },
+        {
+            "palavra": "Chave de Fenda",
+            "tipo": "img",
+            "valor": "assets/svg/solid/screwdriver.json"
+        },
+        {
+            "palavra": "Caixa de Ferramentas",
+            "tipo": "img",
+            "valor": "assets/svg/solid/toolbox.json"
+        },
+        {
+            "palavra": "Régua",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ruler.json"
+        },
+        {
+            "palavra": "Lápis",
+            "tipo": "img",
+            "valor": "assets/svg/solid/pencil.json"
+        },
+        {
+            "palavra": "Caneta",
+            "tipo": "img",
+            "valor": "assets/svg/solid/pen.json"
+        },
+        {
+            "palavra": "Tesoura",
+            "tipo": "img",
+            "valor": "assets/svg/solid/scissors.json"
+        },
+        {
+            "palavra": "Pincel",
+            "tipo": "img",
+            "valor": "assets/svg/solid/paint-brush.json"
+        }
+    ],
+    "Fantasia e Magia": [
+        {
+            "palavra": "Dragão",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dragon.json"
+        },
+        {
+            "palavra": "Masmorra",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dungeon.json"
+        },
+        {
+            "palavra": "Fantasma",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ghost.json"
+        },
+        {
+            "palavra": "Chapéu de Mago",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hat-wizard.json"
+        },
+        {
+            "palavra": "Anel",
+            "tipo": "img",
+            "valor": "assets/svg/solid/ring.json"
+        },
+        {
+            "palavra": "Pergaminho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/scroll.json"
+        },
+        {
+            "palavra": "Caveira",
+            "tipo": "img",
+            "valor": "assets/svg/solid/skull.json"
+        },
+        {
+            "palavra": "Varinha Mágica",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wand-magic-sparkles.json"
+        },
+        {
+            "palavra": "Coroa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/crown.json"
+        },
+        {
+            "palavra": "Poção",
+            "tipo": "img",
+            "valor": "assets/svg/solid/flask.json"
+        },
+        {
+            "palavra": "Livro de Feitiços",
+            "tipo": "img",
+            "valor": "assets/svg/solid/book-skull.json"
+        },
+        {
+            "palavra": "Escudo",
+            "tipo": "img",
+            "valor": "assets/svg/solid/shield-halved.json"
+        }
+    ],
+    "Expressões Faciais": [
+        {
+            "palavra": "Raiva",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-angry.json"
+        },
+        {
+            "palavra": "Tonto",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-dizzy.json"
+        },
+        {
+            "palavra": "Triste",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-frown.json"
+        },
+        {
+            "palavra": "Apaixonado",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-grin-hearts.json"
+        },
+        {
+            "palavra": "Chorando de Rir",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-grin-squint-tears.json"
+        },
+        {
+            "palavra": "Beijo",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-kiss-wink-heart.json"
+        },
+        {
+            "palavra": "Rindo",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-laugh.json"
+        },
+        {
+            "palavra": "Chorando",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-sad-cry.json"
+        },
+        {
+            "palavra": "Feliz",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-smile.json"
+        },
+        {
+            "palavra": "Surpreso",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-surprise.json"
+        },
+        {
+            "palavra": "Entediado",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-meh.json"
+        },
+        {
+            "palavra": "Piscando",
+            "tipo": "img",
+            "valor": "assets/svg/regular/face-smile-wink.json"
+        }
+    ],
+    "Jogos e Video Games": [
+        {
+            "palavra": "Xadrez",
+            "tipo": "img",
+            "valor": "assets/svg/solid/chess.json"
+        },
+        {
+            "palavra": "Dados",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dice.json"
+        },
+        {
+            "palavra": "Controle de Videogame",
+            "tipo": "img",
+            "valor": "assets/svg/solid/gamepad.json"
+        },
+        {
+            "palavra": "Quebra-cabeça",
+            "tipo": "img",
+            "valor": "assets/svg/solid/puzzle-piece.json"
+        },
+        {
+            "palavra": "PlayStation",
+            "tipo": "img",
+            "valor": "assets/svg/brands/playstation.json"
+        },
+        {
+            "palavra": "Xbox",
+            "tipo": "img",
+            "valor": "assets/svg/brands/xbox.json"
+        },
+        {
+            "palavra": "Steam",
+            "tipo": "img",
+            "valor": "assets/svg/brands/steam.json"
+        },
+        {
+            "palavra": "Twitch",
+            "tipo": "img",
+            "valor": "assets/svg/brands/twitch.json"
+        },
+        {
+            "palavra": "Dungeons & Dragons",
+            "tipo": "img",
+            "valor": "assets/svg/brands/d-and-d.json"
+        }
+    ],
+    "Tecnologia e Ling. de Prog.": [
+        {
+            "palavra": "Python",
+            "tipo": "img",
+            "valor": "assets/svg/brands/python.json"
+        },
+        {
+            "palavra": "Java",
+            "tipo": "img",
+            "valor": "assets/svg/brands/java.json"
+        },
+        {
+            "palavra": "JavaScript",
+            "tipo": "img",
+            "valor": "assets/svg/brands/js.json"
+        },
+        {
+            "palavra": "HTML",
+            "tipo": "img",
+            "valor": "assets/svg/brands/html5.json"
+        },
+        {
+            "palavra": "CSS",
+            "tipo": "img",
+            "valor": "assets/svg/brands/css3.json"
+        },
+        {
+            "palavra": "Node.js",
+            "tipo": "img",
+            "valor": "assets/svg/brands/node-js.json"
+        },
+        {
+            "palavra": "Git",
+            "tipo": "img",
+            "valor": "assets/svg/brands/git-alt.json"
+        }
+    ],
+    "Sistemas Operac.": [
+        {
+            "palavra": "Windows",
+            "tipo": "img",
+            "valor": "assets/svg/brands/windows.json"
+        },
+        {
+            "palavra": "macOS",
+            "tipo": "img",
+            "valor": "assets/svg/brands/apple.json"
+        },
+        {
+            "palavra": "iOS",
+            "tipo": "img",
+            "valor": "assets/svg/brands/apple.json"
+        },
+        {
+            "palavra": "Linux",
+            "tipo": "img",
+            "valor": "assets/svg/brands/linux.json"
+        },
+        {
+            "palavra": "Android",
+            "tipo": "img",
+            "valor": "assets/svg/brands/android.json"
+        },
+        {
+            "palavra": "Ubuntu",
+            "tipo": "img",
+            "valor": "assets/svg/brands/ubuntu.json"
+        },
+        {
+            "palavra": "Fedora",
+            "tipo": "img",
+            "valor": "assets/svg/brands/fedora.json"
+        },
+        {
+            "palavra": "Debian",
+            "tipo": "img",
+            "valor": "assets/svg/brands/debian.json"
+        },
+        {
+            "palavra": "CentOS",
+            "tipo": "img",
+            "valor": "assets/svg/brands/centos.json"
+        }
+    ],
+    "Lugares e Edifícios": [
+        {
+            "palavra": "Prédio",
+            "tipo": "img",
+            "valor": "assets/svg/solid/building.json"
+        },
+        {
+            "palavra": "Acampamento",
+            "tipo": "img",
+            "valor": "assets/svg/solid/campground.json"
+        },
+        {
+            "palavra": "Igreja",
+            "tipo": "img",
+            "valor": "assets/svg/solid/church.json"
+        },
+        {
+            "palavra": "Cidade",
+            "tipo": "img",
+            "valor": "assets/svg/solid/city.json"
+        },
+        {
+            "palavra": "Hospital",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hospital.json"
+        },
+        {
+            "palavra": "Hotel",
+            "tipo": "img",
+            "valor": "assets/svg/solid/hotel.json"
+        },
+        {
+            "palavra": "Casa",
+            "tipo": "img",
+            "valor": "assets/svg/solid/house.json"
+        },
+        {
+            "palavra": "Iglu",
+            "tipo": "img",
+            "valor": "assets/svg/solid/igloo.json"
+        },
+        {
+            "palavra": "Monumento",
+            "tipo": "img",
+            "valor": "assets/svg/solid/monument.json"
+        },
+        {
+            "palavra": "Mesquita",
+            "tipo": "img",
+            "valor": "assets/svg/solid/mosque.json"
+        },
+        {
+            "palavra": "Escola",
+            "tipo": "img",
+            "valor": "assets/svg/solid/school.json"
+        },
+        {
+            "palavra": "Loja",
+            "tipo": "img",
+            "valor": "assets/svg/solid/shop.json"
+        }
+    ],
+    "Dinheiro e Finanças": [
+        {
+            "palavra": "Bitcoin",
+            "tipo": "img",
+            "valor": "assets/svg/brands/bitcoin.json"
+        },
+        {
+            "palavra": "Dólar",
+            "tipo": "img",
+            "valor": "assets/svg/solid/dollar-sign.json"
+        },
+        {
+            "palavra": "Euro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/euro-sign.json"
+        },
+        {
+            "palavra": "Iene",
+            "tipo": "img",
+            "valor": "assets/svg/solid/yen-sign.json"
+        },
+        {
+            "palavra": "Cédula de Dinheiro",
+            "tipo": "img",
+            "valor": "assets/svg/solid/money-bill.json"
+        },
+        {
+            "palavra": "Cofre de Porquinho",
+            "tipo": "img",
+            "valor": "assets/svg/solid/piggy-bank.json"
+        },
+        {
+            "palavra": "Carteira",
+            "tipo": "img",
+            "valor": "assets/svg/solid/wallet.json"
+        },
+        {
+            "palavra": "Cartão de Crédito",
+            "tipo": "img",
+            "valor": "assets/svg/solid/credit-card.json"
+        },
+        {
+            "palavra": "PayPal",
+            "tipo": "img",
+            "valor": "assets/svg/brands/paypal.json"
+        },
+        {
+            "palavra": "Visa",
+            "tipo": "img",
+            "valor": "assets/svg/brands/cc-visa.json"
+        },
+        {
+            "palavra": "Mastercard",
+            "tipo": "img",
+            "valor": "assets/svg/brands/cc-mastercard.json"
+        }
+    ],
+    "Marcas da Internet": [
+        {
+            "palavra": "Ebay",
+            "tipo": "img",
+            "valor": "assets/svg/brands/ebay.json"
+        },
+        {
+            "palavra": "Wikipedia",
+            "tipo": "img",
+            "valor": "assets/svg/brands/wikipedia-w.json"
+        },
+        {
+            "palavra": "WordPress",
+            "tipo": "img",
+            "valor": "assets/svg/brands/wordpress.json"
+        },
+        {
+            "palavra": "Notion",
+            "tipo": "img",
+            "valor": "assets/svg/brands/notion.json"
+        },
+        {
+            "palavra": "Figma",
+            "tipo": "img",
+            "valor": "assets/svg/brands/figma.json"
+        },
+        {
+            "palavra": "Dropbox",
+            "tipo": "img",
+            "valor": "assets/svg/brands/dropbox.json"
+        },
+        {
+            "palavra": "Evernote",
+            "tipo": "img",
+            "valor": "assets/svg/brands/evernote.json"
+        },
+        {
+            "palavra": "Kickstarter",
+            "tipo": "img",
+            "valor": "assets/svg/brands/kickstarter.json"
+        }
+    ]
+}
